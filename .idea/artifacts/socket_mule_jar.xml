@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="socket_mule:jar">
+    <output-path>$USER_HOME$/DreamBot/Scripts</output-path>
+    <root id="archive" name="socket_mule.jar">
+      <element id="module-output" name="socket_mule" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/libraries/gson-2.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/libraries/Java-WebSocket-1.5.1-with-dependencies.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
